@@ -343,7 +343,15 @@ Later, we can test the **Shortest Path Rest Service** which is published in **lo
 	    }
 	]
 	'''
+## Swagger Documentation
 
+Once the cotainers are working, check these links in order to know the complete service specification:
+
+1. Api Rest Service + Postgres
+[Swagger Documentation](http://localhost:8082/swagger-ui.html) 
+
+2. Rest Service to calculate the shortest time and connections between cities
+[Swagger Documentation](http://localhost:8080/swagger-ui.html) 
 
 
 ## Deployment
@@ -359,7 +367,6 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Daniel Escartín Daniel** - *Initial work* 
-
 
 
 
